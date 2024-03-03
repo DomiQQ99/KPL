@@ -1,0 +1,14 @@
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\bin\Debug\net8.0\TPMODUL2_1302223028.exe
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\bin\Debug\net8.0\TPMODUL2_1302223028.deps.json
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\bin\Debug\net8.0\TPMODUL2_1302223028.runtimeconfig.json
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\bin\Debug\net8.0\TPMODUL2_1302223028.dll
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\bin\Debug\net8.0\TPMODUL2_1302223028.pdb
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\obj\Debug\net8.0\TPMODUL2_1302223028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\obj\Debug\net8.0\TPMODUL2_1302223028.AssemblyInfoInputs.cache
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\obj\Debug\net8.0\TPMODUL2_1302223028.AssemblyInfo.cs
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\obj\Debug\net8.0\TPMODUL2_1302223028.csproj.CoreCompileInputs.cache
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\obj\Debug\net8.0\TPMODUL2_1302223028.dll
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\obj\Debug\net8.0\refint\TPMODUL2_1302223028.dll
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\obj\Debug\net8.0\TPMODUL2_1302223028.pdb
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\obj\Debug\net8.0\TPMODUL2_1302223028.genruntimeconfig.cache
+C:\Users\Alghifari\source\repos\TPMODUL2_1302223028\TPMODUL2_1302223028\obj\Debug\net8.0\ref\TPMODUL2_1302223028.dll
